@@ -48,7 +48,7 @@ public class CardController {
 	
 	@Autowired
 	private CardService service;
-	//-------------------- 서비스에서 수행되서온놈을 JSONArray로 바꿔서 프론트로 뿌려주는 놈-----------------
+	
 	@RequestMapping("/test")
 	public JSONArray test() {
 		return service.descCard();
