@@ -25,7 +25,7 @@
 **5. Skill Set** <br>
   * Front-end : Javascript, HTML, CSS, Bootstrap    
   * Back-end : Java(Spring Boot)    
-  * DB : ELK (ElasticSearch v7.0.0)   
+  * DB : ELK (ElasticSearch v7.0.0), OracleXE   
   * Data Source : 신한카드, 우리카드, IBK 기업카드   
   * Library : Lombok, json-simple   
   * Visualization : R Studio  
